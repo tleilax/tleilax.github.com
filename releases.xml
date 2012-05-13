@@ -1,3 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
+  <plugin name="Clock.IP">
+    <release
+      version="1.4"
+      url="https://github.com/downloads/tleilax/studip-clockip/ClockIP-1.4.zip"
+      studipMinVersion="2.0"
+      studipMaxVersion="2.4" />
+  </plugin>
 </plugins>
